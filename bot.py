@@ -6,8 +6,8 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.utils import executor
 
 # ================== Настройки ==================
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
+BOT_TOKEN = os.getenv("8263077456:AAHX26xlcozhQ_pdCYcs7Gd0lVw5JeuKUP0")
+ADMIN_ID = int(os.getenv("8318264587", "0"))
 FILES_DIR = "files"  # папка с файлами/аккаунтами
 DATA_FILE = "data.json"
 
